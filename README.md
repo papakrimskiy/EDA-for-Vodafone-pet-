@@ -1,2 +1,2 @@
-# EDA-for-Vodafone-pet-
+# EDA for Vodafone (pet)
 Pet project for Vodafone dataset
